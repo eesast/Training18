@@ -6,6 +6,10 @@
 
 作业可以等两次培训后再做，DDL暂定一周时间，即7月11日24:00之前。
 
+作业的仓库已经建好，在https://github.com/eesast/git-homework20
+
+请大家不要在这个仓库下操作。
+
 ## 联系方式
 
 lizonghu16@mails.tsinghua.edu.cn
