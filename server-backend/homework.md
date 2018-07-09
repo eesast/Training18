@@ -21,12 +21,14 @@
     r = requests.get(https://ts19.eesast.com/backend/download/allfiles/)
     print(r.text) #终端里可以直接用r.text查看其内容
 ```
-* 希望大家在第二节课之前完成这个作业
+* 作业以文档形式提交，文档中列出至少一个你用requests尝试get或post的链接及链接内容，建议大家上网查找requests这个实体的所有属性及其内容，若能在报告中列出其他属性就更好啦
+* 请大家将作业邮件发到13935047516@163.com，以【姓名_后端作业】作为邮件名
+* 截止日期2018.7.20
 
 #### 作业二（有志于开发网站的同学必做）
 
 * 完成django 官网 tutorials的内容https://docs.djangoproject.com/en/2.0/intro/tutorial01/
-* 参照官方文档，阅读github上team18Web仓库的代码，完成以下任务：
+* 参照官方文档，阅读github上team18Web仓库的代码，也可以参照team19的代码，完成以下任务：
     * 掌握单项目多app的架构，了解多个app是如何统一到一个项目下的
     * 了解该项目下每个app的功能是什么
     * 阅读login的内容，了解login应当完成哪些操作
