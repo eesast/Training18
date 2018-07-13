@@ -15,3 +15,9 @@
 lizonghu16@mails.tsinghua.edu.cn
 
 kevinli606@gmail.com
+
+## 7月11日更新
+
+鉴于作业的实际完成情况，DDL改为7月31日24:00。
+
+作业量和难度都不大，希望大家尽快完成。有问题可通过邮箱或者微信询问。
